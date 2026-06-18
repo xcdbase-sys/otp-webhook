@@ -1,0 +1,10 @@
+{
+  "name": "otp-webhook-server",
+  "version": "1.0.0",
+  "description": "Secure OTP Webhook Server",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node src/app.js"
+  }
+}
